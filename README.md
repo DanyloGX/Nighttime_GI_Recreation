@@ -17,8 +17,8 @@ Currently WIP:
 Usage:
 
  - Unpack Original #"StageID".ar.## and delete all .light files
- - Unpack #"StageID".ar.## from repo and move all .light files to Original #"StageID".ar.00 
- - Pack Original #"StageID".ar.00 and merge "Packed" folder with game's "Packed"
+ - Unpack #"StageID".ar.## from repo and move all .light files to Original #"StageID".ar.## 
+ - Pack Original #"StageID".ar.## and merge "Packed" folder with game's "Packed"
  - Now you can open stage in HedgeGI Tool and bake own GI for stage!
 
 Not for in-game usage, can broke lighting!
