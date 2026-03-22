@@ -7,11 +7,11 @@ Collection currently includes:
 
  - Savannah Citadel Act 1 (ActN_AfricaEvil)
  - Savannah Citadel Act 4 (ActN_SubAfrica_03)
+ - Windmill Isle Act 1 (ActN_MykonosEvil)
  - Arid Sands Act 1/2 (revamp ver.) (ActN_PetraEvil)
 
 Currently WIP:
 
- - Windmill Isle Act 1
  - Skyscraper Scamper Act 1/2
 
 Usage:
