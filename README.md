@@ -1,14 +1,18 @@
-# Nighttime_GI_Recreation
+# Nighttime GI Recreation
 
-Collection of GI re-creation for Sonic Unleashed night stages
+Collection of GI recreation for Sonic Unleashed night stages
 
 
 Collection currently includes:
 
- - Savannah Citadel Act 1 (ActN_AfricaEvil)
- - Savannah Citadel Act 4 (ActN_SubAfrica_03)
- - Windmill Isle Act 1 (ActN_MykonosEvil)
- - Arid Sands Act 1/2 (revamp ver.) (ActN_PetraEvil)
+ Faithful(closer to original GI):
+  - Savannah Citadel Act 1 (ActN_AfricaEvil)
+  - Savannah Citadel Act 4 (ActN_SubAfrica_03)
+  - Windmill Isle Act 1 (ActN_MykonosEvil)
+
+ Revamp(tweaked GI):
+  - Windmill Isle Act 1 (ActN_MykonosEvil)
+  - Arid Sands Act 1/2 (revamp ver.) (ActN_PetraEvil)
 
 Currently WIP:
 
