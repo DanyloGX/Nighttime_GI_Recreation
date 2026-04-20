@@ -1,6 +1,7 @@
 -ActN_MykonosEvil: {59 40 97},(#3B2861);
 -ActN_AfricaEvil:  {5 72 175},(#0548AF);
 -ActN_SubAfrica_03: {20 72 153},(#144899);
+-ActN_SubAfrica_03 (Aug): {20 72 153},(#0D4174)
 -ActN_PetraEvil: {40 91 239},(#285BEF);
 -ActN_NYEvil:{2 9 12},(#02090C);
 -ActN_BeachEvil:{0 51 144},(#003390);
