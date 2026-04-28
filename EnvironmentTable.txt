@@ -4,4 +4,4 @@
 -ActN_SubAfrica_03 (Aug): {20 72 153},(#0D4174)
 -ActN_PetraEvil: {40 91 239},(#285BEF);
 -ActN_NYEvil:{2 9 12},(#02090C);
--ActN_BeachEvil:{0 51 144},(#003390);
+-ActN_BeachEvil:{0 51 144},(#003390); Top/Bottom: {0 49 124},{0 93 255}, (#00317C), (#005DFF);

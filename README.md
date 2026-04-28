@@ -11,11 +11,11 @@ Collection currently includes:
   - Savannah Citadel Act 4 (ActN_SubAfrica_03)
 
  Revamp(tweaked GI):
+  - Jungle Joyride Act 1/3 (ActN_BeachEvil)
   - Windmill Isle Act 1 (ActN_MykonosEvil)
   - Arid Sands Act 1/2 (ActN_PetraEvil)
 
 Currently WIP:
- - Jungle Joyride Act 1/3
  - Skyscraper Scamper Act 1/2
 
 Usage:
